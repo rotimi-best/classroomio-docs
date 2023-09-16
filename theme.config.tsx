@@ -3,14 +3,14 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: (
-    <div>
+    <div style="display: flex;">
       <img
         src={`/img/logo-512.png`}
         alt={"ClassroomIO logo"}
         width={32}
         height={32}
       />
-      <span>ClassroomIO</span>
+      <span class="ml-2">ClassroomIO</span>
     </div>
   ),
   project: {

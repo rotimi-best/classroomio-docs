@@ -5,7 +5,7 @@ const config: DocsThemeConfig = {
   logo: (
     <div>
       <img
-        src={`/img/logo-512`}
+        src={`/img/logo-512.png`}
         alt={"ClassroomIO logo"}
         width={32}
         height={32}

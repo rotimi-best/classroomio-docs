@@ -3,7 +3,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: (
-    <div style="display: flex;">
+    <div style={`display: flex;`}>
       <img
         src={`/img/logo-512.png`}
         alt={"ClassroomIO logo"}

@@ -10,7 +10,7 @@ const config: DocsThemeConfig = {
         width={32}
         height={32}
       />
-      <span class="ml-2">ClassroomIO</span>
+      <span style={{ marginLeft: '5px' }}>ClassroomIO</span>
     </div>
   ),
   project: {
